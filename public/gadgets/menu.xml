@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Menu de la semaine" />
+  <Content type="html">
+     <![CDATA[
+       <a href="http://api.matapala.org/images/menu_09102017.png"><img src="http://api.matapala.org/images/menu_09102017.png" width="320" /></a>
+     ]]>
+  </Content>
+</Module>
